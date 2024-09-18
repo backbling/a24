@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: backstageXXX
   description:
-
+    test
   annotations:
     a:
      $text: https://github.com/AutoScout24/dr-ds-price-engine/tree/main/st-monitoring
