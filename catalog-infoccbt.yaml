@@ -6,7 +6,7 @@ metadata:
 
   annotations:
     a:
-     $json: https://github.com/AutoScout24/dr-ds-price-engine/tree/main/st-monitoring
+     $text: https://github.com/AutoScout24/dr-ds-price-engine/tree/main/st-monitoring
     b:
       $text: https://github.com/AutoScout24/dr-ds-price-engine/tree/main/ec2
     github.com/project-slug: backstage/backstage
