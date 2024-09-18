@@ -7,3 +7,5 @@ metadata:
     $text: https://github.com/AutoScout24/as24-dealer-users-management/tree/main/
   tags:
     - nothing
+spec:
+  service: tbd
