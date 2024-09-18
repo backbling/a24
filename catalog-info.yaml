@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tbd
+  description: Testing vulnerability for bug bount program - reported on intigriti.com
+  definition:
+    $text: https://github.com/AutoScout24/as24-dealer-users-management/tree/main/
+  tags:
+    - nothing
