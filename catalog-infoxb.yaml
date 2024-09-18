@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: backstageXXX
   description:
-     $text: https://github.com/github/docs/tree/main
+     $text: https://github.com/AutoScout24/as24-dealer-users-management/tree/main/
   
   annotations:
     github.com/project-slug: backstage/backstage
