@@ -4,8 +4,6 @@ metadata:
   name: backstage
   description: |
     Backstage is an open-source developer portal that puts the developer experience first.
-  definition:
-    $text: https://github.com/AutoScout24/as24-dealer-users-management/tree/main/
   links:
     - title: Website
       url: http://backstage.io
