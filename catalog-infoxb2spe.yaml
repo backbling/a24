@@ -3,9 +3,11 @@ kind: Component
 metadata:
   name: backstageXXX
   description:
-     $text: https://github.com/AutoScout24/dr-ds-price-engine/tree/main/st-monitoring
+     
      $text: https://github.com/AutoScout24/dr-ds-price-engine/tree/main/ec2
   annotations:
+    a: $text: https://github.com/AutoScout24/dr-ds-price-engine/tree/main/st-monitoring
+    b: $text: https://github.com/AutoScout24/dr-ds-price-engine/tree/main/ec2
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
