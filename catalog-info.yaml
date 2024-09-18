@@ -8,4 +8,6 @@ metadata:
   tags:
     - nothing
 spec:
-  service: tbd
+  type: library
+  owner: CNCF
+  lifecycle: experimental
