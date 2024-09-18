@@ -6,7 +6,7 @@ metadata:
     test
   annotations:
     a:
-     $text: https://github.com/AutoScout24/a24-trust-spec/tree/master
+     $text: https://github.com/AutoScout24/a24-trust-spec/tree/main
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
